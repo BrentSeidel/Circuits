@@ -5,4 +5,5 @@ Schematics specific to a particular project will generally be included with that
 
 Current contents:
 * 10 Conductor ribbon cable breakout board
+* I/O Board providing 32 GPIO pins using 2 I2C addresses
 
