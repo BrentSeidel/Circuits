@@ -29,4 +29,13 @@ fp-info-cache
 *.csv
 
 # Gerber files
-*/Gerber/**
+Gerber/**
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
